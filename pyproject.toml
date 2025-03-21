@@ -45,7 +45,7 @@ plugins = [
 #  "nomad-parser-plugins-atomistic>=1.0",
 #  "nomad-parser-plugins-workflow>=1.0",
 #  "nomad-parser-plugins-database>=1.0",
-  "unicornone-rheed @ git+https://github.com/budschi/unicornone-rheed.git@4668aa6ae74e92a5fcc97f65d3e3c1e1944ce9cb"
+  "unicornone-rheed @ git+https://github.com/budschi/unicornone-rheed.git@6459063be682acef927d7225fabd7bf10892a37c"
 ]
 jupyter = []
 dev = ["nomad-lab[parsing, infrastructure, dev]>=1.3.4"]
